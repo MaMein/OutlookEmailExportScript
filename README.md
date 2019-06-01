@@ -1,5 +1,5 @@
 # OutlookEmailExportScript
-Exports Emails to harddrive using the folderstructure from EMail Database.
+Export emails to harddrive using the folderstructure from email Database.
 
 ## For configuration use the following modul constants
 + **STRING_NAME_EXPORT_EMAILFOLDER**
